@@ -1,33 +1,9 @@
-body
+.container { 
+    margin: 0 !important; 
+    min-width: 100%;
+} 
+
+.text-justify
 {
-    margin: 0;
-    padding: 10px 0 0 0;
+    text-align: jsutify;
 }
-
-div#top_title
-{
-    background: #A21A1A;
-    padding: 5px 10px;
-    color: white;
-}
-
-.parent { 
-    display: flex; 
-    flex-direction: row; 
-} 
-
-.child1 { 
-    width: 50%; 
-    height: 100vh; 
-    background-color: green; 
-    text-align: center; 
-    color: white; 
-} 
-
-.child2 { 
-    width: 50%; 
-    padding: 30px; 
-    height: 100vh; 
-    border: green solid 5px; 
-    margin: 50px; 
-} 
