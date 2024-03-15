@@ -1,18 +1,17 @@
-.container { 
-    margin: 0 !important; 
-    min-width: 100%;
-} 
+.container {
+  margin: 0 !important;
+  min-width: 100%;
+}
 
-.text-justify
-{
-    text-align: jsutify;
+.text-justify {
+  text-align: justify !important;
 }
 
 .fixed {
-    position: fixed;
-    width: 25%;
+  position: fixed;
+  width: 25%;
 }
 .scrollit {
-    float: right;
-    width: 71%;
+  float: right;
+  width: 71%;
 }
