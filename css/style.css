@@ -7,3 +7,12 @@
 {
     text-align: jsutify;
 }
+
+.fixed {
+    position: fixed;
+    width: 25%;
+}
+.scrollit {
+    float: right;
+    width: 71%;
+}
