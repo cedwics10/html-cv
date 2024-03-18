@@ -48,7 +48,7 @@ h3 {
   color:  #A21A1A;
   font-size: 25px;
   font-weight:bolder;
-  line-height: 10px;
+  line-height: 15px;
 }
 
 h4 {
@@ -70,4 +70,9 @@ ul
 p
 {
   font-style: italic;
+}
+
+.second_column
+{
+  border-color: #BE5F5F !important;
 }
