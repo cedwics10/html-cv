@@ -1,6 +1,7 @@
 /* START - CUSTOM */
 .container {
   margin: 0 !important;
+  padding: 0px;
   min-width: 100%;
 }
 
@@ -30,14 +31,13 @@ body {
 
 #menu,
 h1, h2 {
-  font-family: Georgia, Cambria, Cochin, Times, 'Times New Roman', serif;
   font-weight: bold;
 }
 
 
 h1 {
+  font-family: Georgia, Cambria, Cochin, Times, 'Times New Roman', serif;
   font-size: 35px;
-
 }
 
 h2 {
@@ -45,6 +45,7 @@ h2 {
 }
 
 h3 {
+  color:  #A21A1A;
   font-size: 20px;
   font-style: oblique;
   font-weight:bolder;
@@ -53,4 +54,10 @@ h3 {
 h4 {
   font-size: 15px;
   font-style:italic;
+}
+
+.headline {
+  background-color: #A21A1A;
+  color: white;
+  border-radius: 5px;
 }
