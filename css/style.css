@@ -19,12 +19,38 @@
 
 @media screen and (min-width: 1200px) {
   .fixed-xl-top {
-    position:fixed;
+    position: fixed;
   }
 }
 /* END - CUSTOM */
 
-body
-{
+body {
   font-family: 'Times New Roman', Times, serif;
+}
+
+#menu,
+h1, h2 {
+  font-family: Georgia, Cambria, Cochin, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+
+
+h1 {
+  font-size: 35px;
+
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;
+  font-style: oblique;
+  font-weight:bolder;
+}
+
+h4 {
+  font-size: 15px;
+  font-style:italic;
 }
