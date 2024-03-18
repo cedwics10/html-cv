@@ -8,13 +8,10 @@
   text-align: justify !important;
 }
 
-/*
 .infos
 {
-  width: 10%;
+  float: left;
 }
-
-*/
 
 .scrollit {
   float: right;
