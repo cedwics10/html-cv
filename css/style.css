@@ -76,3 +76,8 @@ p
 {
   border-color: #BE5F5F !important;
 }
+
+.portrait
+{
+  max-height: 150px;
+}
