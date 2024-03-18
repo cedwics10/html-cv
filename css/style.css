@@ -9,15 +9,11 @@
 }
 
 /*
-.fixed-top {
-  position: initial;
+.infos
+{
+  width: 10%;
 }
 
-@media only screen and (min-width: 800px) {
-  .fixed-top {
-    position: fixed;
-  }
-} 
 */
 
 .scrollit {
