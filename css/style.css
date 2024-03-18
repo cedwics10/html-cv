@@ -8,8 +8,7 @@
   text-align: justify !important;
 }
 
-.infos
-{
+.infos {
   float: left;
 }
 
@@ -18,4 +17,9 @@
   width: 71%;
 }
 
+@media screen and (min-width: 1200px) {
+  .fixed-xl-top {
+    position:fixed;
+  }
+}
 /* END - CUSTOM */
