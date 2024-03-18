@@ -8,6 +8,7 @@
   text-align: justify !important;
 }
 
+/*
 .fixed-top {
   position: initial;
 }
@@ -15,9 +16,9 @@
 @media only screen and (min-width: 800px) {
   .fixed-top {
     position: fixed;
-    width: 25%;
   }
-}
+} 
+*/
 
 .scrollit {
   float: right;
