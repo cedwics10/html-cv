@@ -2,7 +2,7 @@
 .container {
   min-width: 100%;
   margin: 0;
-  padding: 0;
+  padding: 0 10px;
 }
 
 .text-justify {
@@ -80,4 +80,25 @@ p
 .portrait
 {
   max-height: 150px;
+}
+
+a
+{
+  text-decoration: none;
+  color: #550000;
+}
+
+a:hover
+{
+  color: #D46A6A;
+}
+
+.summary
+{
+  z-index: -1;
+}
+
+#menu
+{
+  color: #550000;
 }
