@@ -30,10 +30,10 @@ body {
 }
 
 #menu,
-h1, h2 {
+h1,
+h2 {
   font-weight: bold;
 }
-
 
 h1 {
   font-family: Georgia, Cambria, Cochin, Times, 'Times New Roman', serif;
@@ -45,9 +45,9 @@ h2 {
 }
 
 h3 {
-  color:  #A21A1A;
+  color: #a21a1a;
   font-size: 25px;
-  font-weight:bolder;
+  font-weight: bolder;
   line-height: 15px;
 }
 
@@ -57,48 +57,45 @@ h4 {
 }
 
 .headline {
-  background-color: #A21A1A;
+  background-color: #a21a1a;
   color: white;
   border-radius: 5px;
 }
 
-ul
-{
+ul {
   list-style: square;
 }
 
-p
-{
+p {
   font-style: italic;
 }
 
-.second_column
-{
-  border-color: #BE5F5F !important;
+.second_column {
+  border-color: #be5f5f !important;
 }
 
-.portrait
-{
+.portrait {
   max-height: 150px;
 }
 
-a
-{
+a {
   text-decoration: none;
   color: #550000;
 }
 
-a:hover
-{
-  color: #D46A6A;
+a:hover {
+  color: #d46a6a;
 }
 
-.summary
-{
+.summary {
   z-index: -1;
 }
 
-#menu
-{
+#menu {
   color: #550000;
+}
+
+.separation {
+  padding-right: 5px;
+  border-right: 1px solid #ccc;
 }
